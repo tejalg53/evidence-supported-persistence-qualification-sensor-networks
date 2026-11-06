@@ -3,7 +3,7 @@
 Code and results behind the Invention Disclosure "Evidence-Supported Persistence
 Qualification of Temporal-Variability States for Conflict-Free Adaptive Resource
 Configuration of Sensing Channels in Distributed Sensor Networks"
-(Tejal Gupta, Aditya Bramhe, Gopinath K; VIT).
+(Tejal Gupta, Aditya Bramhe, Gopinath M; VIT).
 
 **Evidence status.** The baseline pipeline is the firmware in the companion repo [persistence-aware-adaptive-sampling](https://github.com/AdityaBramhe/persistence-aware-adaptive-sampling) (`firmware/`; Tier 1,
 run in an AVR emulator). The evidence-support test and commit rules are new and are
